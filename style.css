@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(31,41,55);
+    color: white;
+}
+
+
+
+.title-trusted {
+    text-align: center;
+    font-weight: bold;
+}
+
+.trusted-logo {
+    margin-left: 38vw;
+    width: 21vw;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 0px;
+}
+
+.first-column {
+    background-color: rgb(99, 106, 115);
+    margin-left: 13em;
+    width: 25%;
+    height: 15em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-top: 1em;
+}
+
+input {
+    width: 19em;
+    height: 2em;
+}
+
+label{
+    font-size: 2em;
+}
+
+
+button {
+    background-color: rgb(242,71,38);
+    height: 3em;
+    color: white;
+    font-weight: bold;
+    margin-top: 0.5em;
+    width: 20em;
+    border: none;
+}
+
+.Second-Column {
+    width: auto;
+    float: left;
+    margin-left: 19vw;
+    font-size: 1.6em;
+    position: relative;
+    bottom: 0.5em;
+}
+
+.Div-main {
+
+    display: table;
+    width: 100%;
+}
+
+.margin-bottom-s {
+    margin-bottom: 1em;
+}
